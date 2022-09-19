@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "a84023d165a6708a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab2d473e9f45c26",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd88f032d4b5077c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e7cb96453b100ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf4894f60553fd49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b59c982759cf048",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "923e2d7f082ff043",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7ec68000c65d0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "20849310364e6244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d92473ea5cf5f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c06aba04793c2a4e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71c36fc71b511887",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cab2d473e9f45c26",
+  "lastOpenFiles": [
+    "Nerfect - A Prioritization Game.md",
+    "Small Company, Egalitarian Culture.md",
+    "Legible systems are healthier.md",
+    "Worldview.md",
+    "Capitalism has it's place.md"
+  ]
+}
