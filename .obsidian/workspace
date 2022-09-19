@@ -7,8 +7,12 @@
         "id": "cab2d473e9f45c26",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Small Company, Egalitarian Culture.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Small Company, Egalitarian Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Small Company, Egalitarian Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +120,7 @@
   },
   "active": "cab2d473e9f45c26",
   "lastOpenFiles": [
+    "Large Company, Autocratic Culture.md",
     "Nerfect - A Prioritization Game.md",
     "Small Company, Egalitarian Culture.md",
     "Legible systems are healthier.md",
